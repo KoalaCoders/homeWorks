@@ -77,5 +77,5 @@
     fallback(obj, fallbackObj);
       // => { id: 1, info: { name: 'Alex', surname: 'default surname', age: 22 }, description: 'default description' }
     ```
-  4. Add each file to separated commits at `feature/hw-1` branch
-  5. Push to remote and create pull request to `master` branch 
+4. Add each file to separated commits at `feature/hw-1` branch
+5. Push to remote and create pull request to `master` branch 
