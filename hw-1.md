@@ -46,7 +46,7 @@
    ### `flatten.js`
    Should transform array of arrays to one array where each item is a primitive 
    ```js
-   flatten([1, [2, 3], [[4], [5, 6]]);
+   flatten([1, [2, 3], [[4], [5, 6]]]);
    // => [1, 2, 3, 4, 5, 6]
    ```
    ### `fallback.js`
