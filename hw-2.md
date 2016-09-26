@@ -8,7 +8,8 @@
  class Game { }
  ```
 
- ## Player
+## Player
+
  ```js
  class Player {
 
@@ -29,7 +30,7 @@
  }
  ```
 
- ## Barrier
+## Barrier
  ```js
  class Barrier {
 
@@ -51,6 +52,7 @@
  ```
 
 ## Game
+
 ```js
 class Game {
 
